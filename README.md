@@ -12,10 +12,10 @@ Click [here](https://github.com/Pramodgopinathan/entity-relationship-diagram/blo
 ## ERD Diagram
 ![](https://github.com/Pramodgopinathan/entity-relationship-diagram/blob/main/ERD.PNG)
 
-## SQL - Insert data into one table
+## SQL - Insert data into one table (Step 1)
 ![](https://github.com/Pramodgopinathan/SQL-entity_relationship_diagram/blob/main/INSERT.PNG)
 
-## SQL - Select data to display the record
+## SQL - Select data to display the record (Step 2)
 ![](https://github.com/Pramodgopinathan/SQL-entity_relationship_diagram/blob/main/SELECT.PNG)
 
-# Try to insert all the data into each table
+### Try to insert all the data into each table using step 1 and step 2
