@@ -7,7 +7,7 @@ An entity relationship diagram (ERD), also known as an entity relationship model
 ![](https://github.com/Pramodgopinathan/entity-relationship-diagram/blob/main/ERD%20STEPS.PNG)
 
 ## SQL to create tables and relationship
-click [here](https://github.com/Pramodgopinathan/entity-relationship-diagram/blob/fc8cf262f317012b18b34b586499d45007d941f1/CREATE%20TABLE#L4) for details or download it from repository
+Click [here](https://github.com/Pramodgopinathan/entity-relationship-diagram/blob/fc8cf262f317012b18b34b586499d45007d941f1/CREATE%20TABLE#L4) for details on SQL or download it from Repository.
 
 ## ERD Diagram
 ![](https://github.com/Pramodgopinathan/entity-relationship-diagram/blob/main/ERD.PNG)
