@@ -1,2 +1,1 @@
-# entity-relationship-diagram
-Kindly Check Wiki Page for more details
+# Kindly Check Wiki Page for more details
